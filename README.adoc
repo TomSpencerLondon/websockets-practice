@@ -1,0 +1,5 @@
+== Websocket practice
+Followed this https://www.callicoder.com/spring-boot-websocket-chat-example/[tutorial]
+
+image::https://user-images.githubusercontent.com/27693622/178080522-68001bbc-c8aa-422a-80d1-714a2e410fae.png[]
+
